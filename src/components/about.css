@@ -1,0 +1,15 @@
+@keyframes moveDardo {
+    0% {
+      transform: translateX(0);
+      transform: scale(1);
+    }
+    50% {
+      transform: translateX(2vw); /* Mova metade da largura da tela */
+      transform: scale(1.050);
+    }
+    100% {
+      transform: translateX(0);
+      transform: scale(1);
+    }
+  }
+  
