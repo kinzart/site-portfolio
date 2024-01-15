@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Sempre que adicionar uma nova pagina, tens que adicionar a rota.
+Don´t forget add the routes when open another page
 
 ## Available Scripts
 
